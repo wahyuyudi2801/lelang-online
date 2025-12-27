@@ -14,7 +14,7 @@ Halaman untuk menawarkan bid untuk barang yang akan dilelang.
 ![Halaman Login](images/login.PNG)
 
 ## Halaman Dashboard
-![Halaman Dashboard](images/dashboard.png)
+![Halaman Dashboard](images/dashboard.PNG)
 
 ## Halaman Barang
 ![Halaman Barang](images/barang.PNG)
